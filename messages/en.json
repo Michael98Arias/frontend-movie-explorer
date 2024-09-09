@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "Hello world!"
+    },
+    "ErrorNotFound": {
+      "error": {
+        "notFound": "Page Not Found",
+        "labelButton": "Return Home"
+      }
+    }
+  }
