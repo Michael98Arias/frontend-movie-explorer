@@ -1,6 +1,15 @@
 {
     "HomePage": {
-      "title": "Hola Mundo!"
+      "NavBar": {
+        "title" : "Explorador de Películas",
+        "labelButton" : {
+          "buttonOne" : "Popular",
+          "buttonTwo" : "Favoritas"
+        },
+        "avatar" : {
+          
+        }
+      }
     },  
     "ErrorNotFound": {
       "error": {
