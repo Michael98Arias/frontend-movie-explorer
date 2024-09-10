@@ -26,6 +26,7 @@ Basic Authentication
 
 ### List of implemented icons
 - [Movie](https://www.flaticon.com/free-icon/movie_4831203?term=movie&page=2&position=11&origin=search&related_id=4831203)
+- [Popcorn](https://www.flaticon.es/icono-gratis/palomitas-de-maiz_704939?term=pelicula&related_id=704939)
 
 
 
